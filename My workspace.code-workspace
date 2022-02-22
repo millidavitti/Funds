@@ -1,0 +1,100 @@
+{
+  "folders": [
+    {
+      "name": "starter",
+      "path": "..\\..\\05-Guess-My-Number\\starter"
+    },
+    {
+      "name": "starter MODAL",
+      "path": "..\\..\\06-Modal\\starter MODAL"
+    },
+    {
+      "name": "final",
+      "path": "..\\..\\05-Guess-My-Number\\final"
+    },
+    {
+      "name": "starter pig",
+      "path": "..\\..\\07-Pig-Game\\starter pig"
+    },
+    {
+      "name": "starter behind",
+      "path": "..\\..\\08-Behind-the-Scenes\\starter behind"
+    },
+    {
+      "name": "starter Data",
+      "path": "..\\..\\09-Data-Structures-Operators\\starter Data"
+    },
+    {
+      "name": "Functions",
+      "path": "..\\..\\10-Functions\\Functions"
+    },
+    {
+      "name": "Bankist",
+      "path": "..\\Bankist"
+    },
+    {
+      "name": "12-Numbers-Dates-Timers-Bankist stater",
+      "path": "..\\..\\12-Numbers-Dates-Timers-Bankist\\12-Numbers-Dates-Timers-Bankist stater"
+    },
+    {
+      "name": "HTML & CSS",
+      "path": "..\\..\\HTML & CSS"
+    },
+    {
+      "name": "Bankist remake",
+      "path": "."
+    },
+    {
+      "name": "Advance DOM",
+      "path": "..\\..\\13-Advanced-DOM-Bankist\\Advance DOM"
+    },
+    {
+      "name": "OOP",
+      "path": "..\\..\\14-OOP\\OOP"
+    },
+    {
+      "name": "Mapty",
+      "path": "..\\..\\15-Mapty\\Mapty"
+    },
+    {
+      "name": "Async",
+      "path": "..\\..\\16-Asynchronous\\Async"
+    },
+    {
+      "name": "space-tourism-website-main",
+      "path": "..\\..\\HTML & CSS\\Projects\\FrontEnd Mentor\\space-tourism-website-main"
+    },
+    {
+      "name": "ip-address-tracker",
+      "path": "..\\..\\HTML & CSS\\Projects\\FrontEnd Mentor\\ip-address-tracker"
+    },
+    {
+      "name": "Mordern Javascript Dev",
+      "path": "..\\..\\17-Modern-JS-Modules-Tooling\\Mordern Javascript Dev"
+    },
+    {
+      "path": "..\\..\\18-forkify\\Forkify"
+    },
+    {
+      "path": "..\\..\\..\\react\\react-app"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HTML & CSS",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnPaste": true
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "pwa-node",
+        "request": "launch",
+        "name": "Launch Program",
+        "skipFiles": ["<node_internals>/**"],
+        "program": "c:\\Users\\Donald Abua\\Downloads\\complete-javascript-course-master\\complete-javascript-course-master\\HTML & CSS\\Projects\\Calculator\\script.js",
+        "__workspaceFolder": "c:\\Users\\Donald Abua\\Downloads\\complete-javascript-course-master\\complete-javascript-course-master\\HTML & CSS\\Projects\\Calculator"
+      }
+    ]
+  }
+}
