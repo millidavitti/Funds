@@ -13,10 +13,6 @@
       "path": "..\\..\\05-Guess-My-Number\\final"
     },
     {
-      "name": "starter pig",
-      "path": "..\\..\\07-Pig-Game\\starter pig"
-    },
-    {
       "name": "starter behind",
       "path": "..\\..\\08-Behind-the-Scenes\\starter behind"
     },
@@ -80,6 +76,18 @@
     },
     {
       "path": "..\\..\\..\\My Portfolio"
+    },
+    {
+      "path": "..\\..\\07-Pig-Game\\lets-roll"
+    },
+    {
+      "path": "..\\..\\HTML & CSS\\Projects\\FrontEnd Mentor\\CSS GOD"
+    },
+    {
+      "path": "..\\..\\..\\Edvora Test"
+    },
+    {
+      "path": "..\\..\\..\\Milan"
     }
   ],
   "settings": {
